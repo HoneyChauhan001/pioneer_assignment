@@ -1,8 +1,9 @@
-# React + Vite
+# React Web App 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Task Done
+- Task 1 -> Responsive Side Navigation Bar
+- Task 2 -> Graph Population Data using Chartjs library
+- Task 3 -> Display Cryptocurrency Prices using Cards
 
-Currently, two official plugins are available:
+### All tasks are done in a single web application and we can use side navigation bar (Task 1) to navigate to task 2 and task 3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
