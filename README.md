@@ -7,3 +7,5 @@
 
 ### All tasks are done in a single web application and we can use side navigation bar (Task 1) to navigate to task 2 and task 3
 
+## Hosted Link : https://data-platform-nav.netlify.app/
+
